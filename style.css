@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background: url("https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80");
+    background-size: cover;
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+    background: black;
+    border: 3px solid white;
+    padding: 15px;
+}
+
+nav {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid white;
+}
+
+nav h1 {
+    color: yellow;
+    background: none;
+    border: none;
+}
+
+a {
+    font-size: 18px;
+    font-weight: bold;
+}
+
